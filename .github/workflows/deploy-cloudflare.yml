@@ -1,0 +1,28 @@
+name: Deploy Oinki Gay Events to Cloudflare Pages
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'gay-events.ics'
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Prepare Pages directory
+        run: |
+          mkdir -p dist
+          cp gay-events.ics dist/gay-events.ics
+
+      - name: Deploy to Cloudflare Pages
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy dist --project-name=oinki-gay-events --branch=main
