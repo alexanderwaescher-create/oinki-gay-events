@@ -5,6 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Oinki Gay Events
 X-WR-TIMEZONE:Europe/Berlin
+X-WR-CALDESC:Oinki Gay Events – automatisch aktualisiert
 BEGIN:VEVENT
 UID:20260821-underground-sports@oinki-gay-events
 DTSTAMP:20260817T100000Z
