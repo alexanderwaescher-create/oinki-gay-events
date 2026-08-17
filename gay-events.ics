@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Oinki//Gay Events Test//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Oinki Gay Events Test
+BEGIN:VEVENT
+UID:oinki-nas-test-20260817@oinki-events
+DTSTAMP:20260817T090000Z
+DTSTART;VALUE=DATE:20260818
+DTEND;VALUE=DATE:20260819
+SUMMARY:🏠 MUC · Oinki Gay Events – NAS-Test
+LOCATION:München
+DESCRIPTION:Testtermin für den öffentlichen Oinki Gay Events Kalender. Wenn dieser Termin nach dem Kalenderabo sichtbar ist, funktioniert die ICS-Auslieferung.
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
