@@ -5,39 +5,490 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Oinki Gay Events
 X-WR-TIMEZONE:Europe/Berlin
-X-WR-CALDESC:Oinki Gay Events – automatisch aktualisiert
+X-APPLE-CALENDAR-COLOR:#7E57C2
 BEGIN:VEVENT
-UID:20260821-underground-sports@oinki-gay-events
+UID:20260821-1-sports-rubber-neoprene-pvc@oinki-gay-events
 DTSTAMP:20260817T100000Z
 DTSTART;TZID=Europe/Berlin:20260821T210000
-SUMMARY:🏠 MUC · Sports, Rubber, Neoprene & PVC @ UnderGround
-LOCATION:München, Deutschland
+SUMMARY:🏠 MUC · Sports\, Rubber\, Neoprene & PVC @ UnderGround
+LOCATION:München\, Deutschland
+DESCRIPTION:Fetish / Men only. Priorität 5/5. MLC UnderGround\; Dresscode laut Veranstalter. Quelle: https://www.mlc-munich.de/web/veranstaltungsort/underground/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20260822-underground-pets@oinki-gay-events
+UID:20260822-2-pets-handler-trainer-under@oinki-gay-events
 DTSTAMP:20260817T100000Z
 DTSTART;TZID=Europe/Berlin:20260822T210000
-SUMMARY:🏠 MUC · Pets, Handler & Trainer @ UnderGround
-LOCATION:München, Deutschland
+SUMMARY:🏠 MUC · Pets\, Handler & Trainer @ UnderGround
+LOCATION:München\, Deutschland
+DESCRIPTION:Fetish / Men only. Priorität 5/5. MLC UnderGround. Quelle: https://www.mlc-munich.de/web/veranstaltungsort/underground/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20260910-folsom-europe@oinki-gay-events
+UID:20260823-3-mlc-grillfest@oinki-gay-events
+DTSTAMP:20260817T100000Z
+DTSTART;TZID=Europe/Berlin:20260823T140000
+DTEND;TZID=Europe/Berlin:20260823T220000
+SUMMARY:🏠 MUC · MLC Grillfest
+LOCATION:München\, Deutschland
+DESCRIPTION:Community / Fetish Social. Priorität 4/5. Anmeldung erforderlich\; UnderGround. Quelle: https://www.mlc-munich.de/web/veranstaltungsort/underground/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260828-4-bondage-sm-spank-undergrou@oinki-gay-events
+DTSTAMP:20260817T100000Z
+DTSTART;TZID=Europe/Berlin:20260828T210000
+SUMMARY:🏠 MUC · Bondage\, SM & Spank @ UnderGround
+LOCATION:München\, Deutschland
+DESCRIPTION:Fetish / BDSM. Priorität 5/5. MLC UnderGround. Quelle: https://www.mlc-munich.de/web/veranstaltungsort/underground/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260904-5-leather-night-underground@oinki-gay-events
+DTSTAMP:20260817T100000Z
+DTSTART;TZID=Europe/Berlin:20260904T210000
+SUMMARY:🏠 MUC · Leather Night @ UnderGround
+LOCATION:München\, Deutschland
+DESCRIPTION:Leather / Fetish. Priorität 5/5. MLC UnderGround. Quelle: https://www.mlc-munich.de/web/veranstaltungsort/underground/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260905-6-fetish-schlager-party-unde@oinki-gay-events
+DTSTAMP:20260817T100000Z
+DTSTART;TZID=Europe/Berlin:20260905T210000
+SUMMARY:🏠 MUC · Fetish Schlager Party @ UnderGround
+LOCATION:München\, Deutschland
+DESCRIPTION:Fetish / Party. Priorität 4/5. MLC Special Event. Quelle: https://www.mlc-munich.de/web/veranstaltungsort/underground/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260911-7-mixed-fetish-underground@oinki-gay-events
+DTSTAMP:20260817T100000Z
+DTSTART;TZID=Europe/Berlin:20260911T210000
+SUMMARY:🏠 MUC · Mixed Fetish @ UnderGround
+LOCATION:München\, Deutschland
+DESCRIPTION:Fetish. Priorität 4/5. MLC UnderGround. Quelle: https://www.mlc-munich.de/web/veranstaltungsort/underground/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260912-8-sports-rubber-neoprene-pvc@oinki-gay-events
+DTSTAMP:20260817T100000Z
+DTSTART;TZID=Europe/Berlin:20260912T210000
+SUMMARY:🏠 MUC · Sports\, Rubber\, Neoprene & PVC @ UnderGround
+LOCATION:München\, Deutschland
+DESCRIPTION:Fetish. Priorität 5/5. MLC UnderGround. Quelle: https://www.mlc-munich.de/web/veranstaltungsort/underground/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260918-9-piss-fist-fuck-underground@oinki-gay-events
+DTSTAMP:20260817T100000Z
+DTSTART;TZID=Europe/Berlin:20260918T210000
+DTEND;TZID=Europe/Berlin:20260919T050000
+SUMMARY:🏠 MUC · Piss\, Fist & Fuck @ UnderGround
+LOCATION:München\, Deutschland
+DESCRIPTION:Sex-positive / Fetish. Priorität 5/5. Men only\; MLC UnderGround. Quelle: https://www.mlc-munich.de/web/veranstaltungsort/underground/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260919-10-loewennacht-underground@oinki-gay-events
+DTSTAMP:20260817T100000Z
+DTSTART;TZID=Europe/Berlin:20260919T210000
+DTEND;TZID=Europe/Berlin:20260920T030000
+SUMMARY:🏠 MUC · Loewennacht @ UnderGround
+LOCATION:München\, Deutschland
+DESCRIPTION:Fetish / Party. Priorität 5/5. Men only\; MLC UnderGround. Quelle: https://www.mlc-munich.de/web/veranstaltungsort/underground/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260920-11-gay-sunday-br-urosl@oinki-gay-events
+DTSTAMP:20260817T100000Z
+DTSTART;TZID=Europe/Berlin:20260920T090000
+SUMMARY:🏠 MUC · Gay Sunday @ Bräurosl
+LOCATION:München\, Deutschland
+DESCRIPTION:Gay social / Oktoberfest. Priorität 5/5. Erster Wiesn-Sonntag. Quelle: https://www.oktoberfest.de/en/information/service-visitors/lgbtiq-wiesn-tips-and-events-queer-community
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260925-12-mixed-fetish-underground@oinki-gay-events
+DTSTAMP:20260817T100000Z
+DTSTART;TZID=Europe/Berlin:20260925T210000
+SUMMARY:🏠 MUC · Mixed Fetish @ UnderGround
+LOCATION:München\, Deutschland
+DESCRIPTION:Fetish. Priorität 4/5. MLC UnderGround. Quelle: https://www.mlc-munich.de/web/veranstaltungsort/underground/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260926-13-leder-tracht-underground@oinki-gay-events
+DTSTAMP:20260817T100000Z
+DTSTART;TZID=Europe/Berlin:20260926T210000
+SUMMARY:🏠 MUC · Leder & Tracht @ UnderGround
+LOCATION:München\, Deutschland
+DESCRIPTION:Leather / Fetish. Priorität 5/5. MLC UnderGround. Quelle: https://www.mlc-munich.de/web/veranstaltungsort/underground/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261002-14-rubber-neoprene-pvc-underg@oinki-gay-events
+DTSTAMP:20260817T100000Z
+DTSTART;TZID=Europe/Berlin:20261002T210000
+SUMMARY:🏠 MUC · Rubber\, Neoprene & PVC @ UnderGround
+LOCATION:München\, Deutschland
+DESCRIPTION:Fetish. Priorität 5/5. MLC UnderGround. Quelle: https://www.mlc-munich.de/web/veranstaltungsort/underground/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261003-15-bondage-sm-spank-undergrou@oinki-gay-events
+DTSTAMP:20260817T100000Z
+DTSTART;TZID=Europe/Berlin:20261003T210000
+SUMMARY:🏠 MUC · Bondage\, SM & Spank @ UnderGround
+LOCATION:München\, Deutschland
+DESCRIPTION:Fetish / BDSM. Priorität 5/5. MLC UnderGround. Quelle: https://www.mlc-munich.de/web/veranstaltungsort/underground/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261009-16-mixed-fetish-underground@oinki-gay-events
+DTSTAMP:20260817T100000Z
+DTSTART;TZID=Europe/Berlin:20261009T210000
+SUMMARY:🏠 MUC · Mixed Fetish @ UnderGround
+LOCATION:München\, Deutschland
+DESCRIPTION:Fetish. Priorität 4/5. MLC UnderGround. Quelle: https://www.mlc-munich.de/web/veranstaltungsort/underground/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261010-17-full-leather-100-undergrou@oinki-gay-events
+DTSTAMP:20260817T100000Z
+DTSTART;TZID=Europe/Berlin:20261010T210000
+SUMMARY:🏠 MUC · Full Leather 100% @ UnderGround
+LOCATION:München\, Deutschland
+DESCRIPTION:Leather / Fetish. Priorität 5/5. MLC UnderGround. Quelle: https://www.mlc-munich.de/web/veranstaltungsort/underground/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261011-18-naked-underwear-afternoon-@oinki-gay-events
+DTSTAMP:20260817T100000Z
+DTSTART;TZID=Europe/Berlin:20261011T150000
+DTEND;TZID=Europe/Berlin:20261011T220000
+SUMMARY:🏠 MUC · Naked & Underwear Afternoon @ UnderGround
+LOCATION:München\, Deutschland
+DESCRIPTION:Naked / Underwear. Priorität 4/5. MLC UnderGround. Quelle: https://www.mlc-munich.de/web/veranstaltungsort/underground/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261016-19-nike-adidas-underground@oinki-gay-events
+DTSTAMP:20260817T100000Z
+DTSTART;TZID=Europe/Berlin:20261016T210000
+SUMMARY:🏠 MUC · Nike & Adidas @ UnderGround
+LOCATION:München\, Deutschland
+DESCRIPTION:Sportswear / Fetish. Priorität 4/5. MLC UnderGround. Quelle: https://www.mlc-munich.de/web/veranstaltungsort/underground/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261017-20-code-red-underground@oinki-gay-events
+DTSTAMP:20260817T100000Z
+DTSTART;TZID=Europe/Berlin:20261017T210000
+SUMMARY:🏠 MUC · Code Red @ UnderGround
+LOCATION:München\, Deutschland
+DESCRIPTION:Fetish / Sex-positive. Priorität 5/5. MLC UnderGround. Quelle: https://www.mlc-munich.de/web/veranstaltungsort/underground/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261018-21-naked-afternoon-undergroun@oinki-gay-events
+DTSTAMP:20260817T100000Z
+DTSTART;TZID=Europe/Berlin:20261018T150000
+DTEND;TZID=Europe/Berlin:20261018T220000
+SUMMARY:🏠 MUC · Naked Afternoon @ UnderGround
+LOCATION:München\, Deutschland
+DESCRIPTION:Naked. Priorität 4/5. MLC UnderGround. Quelle: https://www.mlc-munich.de/web/veranstaltungsort/underground/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261023-22-sports-rubber-neoprene-pvc@oinki-gay-events
+DTSTAMP:20260817T100000Z
+DTSTART;TZID=Europe/Berlin:20261023T210000
+SUMMARY:🏠 MUC · Sports\, Rubber\, Neoprene & PVC @ UnderGround
+LOCATION:München\, Deutschland
+DESCRIPTION:Fetish. Priorität 5/5. MLC UnderGround. Quelle: https://www.mlc-munich.de/web/veranstaltungsort/underground/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261024-23-sk8erboyparty-underground@oinki-gay-events
+DTSTAMP:20260817T100000Z
+DTSTART;TZID=Europe/Berlin:20261024T210000
+DTEND;TZID=Europe/Berlin:20261025T010000
+SUMMARY:🏠 MUC · Sk8erboyparty @ UnderGround
+LOCATION:München\, Deutschland
+DESCRIPTION:Sportswear / Fetish. Priorität 4/5. Keine Abendkasse laut Veranstalter. Quelle: https://www.mlc-munich.de/web/veranstaltungsort/underground/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261025-24-naked-underwear-afternoon-@oinki-gay-events
+DTSTAMP:20260817T100000Z
+DTSTART;TZID=Europe/Berlin:20261025T150000
+DTEND;TZID=Europe/Berlin:20261025T220000
+SUMMARY:🏠 MUC · Naked & Underwear Afternoon @ UnderGround
+LOCATION:München\, Deutschland
+DESCRIPTION:Naked / Underwear. Priorität 4/5. MLC UnderGround. Quelle: https://www.mlc-munich.de/web/veranstaltungsort/underground/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261030-25-mixed-fetish-underground@oinki-gay-events
+DTSTAMP:20260817T100000Z
+DTSTART;TZID=Europe/Berlin:20261030T210000
+SUMMARY:🏠 MUC · Mixed Fetish @ UnderGround
+LOCATION:München\, Deutschland
+DESCRIPTION:Fetish. Priorität 4/5. MLC UnderGround. Quelle: https://www.mlc-munich.de/web/veranstaltungsort/underground/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261031-26-soldiers-uniform-undergrou@oinki-gay-events
+DTSTAMP:20260817T100000Z
+DTSTART;TZID=Europe/Berlin:20261031T210000
+SUMMARY:🏠 MUC · Soldiers & Uniform @ UnderGround
+LOCATION:München\, Deutschland
+DESCRIPTION:Uniform / Fetish. Priorität 5/5. MLC UnderGround. Quelle: https://www.mlc-munich.de/web/veranstaltungsort/underground/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261101-27-m-nchner-stuten-ficken-und@oinki-gay-events
+DTSTAMP:20260817T100000Z
+DTSTART;TZID=Europe/Berlin:20261101T150000
+DTEND;TZID=Europe/Berlin:20261101T220000
+SUMMARY:🏠 MUC · Münchner Stuten-Ficken @ UnderGround
+LOCATION:München\, Deutschland
+DESCRIPTION:Sex-positive / Men only. Priorität 5/5. Getrennte Einlasszeiten für Rollen laut Veranstalter. Quelle: https://www.mlc-munich.de/web/veranstaltungsort/underground/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260910-28-folsom-europe-2026@oinki-gay-events
 DTSTAMP:20260817T100000Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260914
 SUMMARY:🐻 BER · Folsom Europe 2026
-LOCATION:Berlin, Deutschland
+LOCATION:Berlin\, Deutschland
+DESCRIPTION:Leather / Fetish Festival. Priorität 5/5. Europäisches Leather/Fetish-Großevent. Quelle: https://www.folsomeurope.info/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20270216-darklands@oinki-gay-events
+UID:20260911-29-revolver-xxl-folsom-fetish@oinki-gay-events
+DTSTAMP:20260817T100000Z
+DTSTART;TZID=Europe/Berlin:20260911T220000
+SUMMARY:🐻 BER · Revolver XXL – Folsom Fetish Weekend
+LOCATION:Berlin\, Deutschland
+DESCRIPTION:Gay Circuit / Fetish. Priorität 5/5. Club Ost. Quelle: https://revolverparty.com/tickets/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260911-30-testosterone-official-fols@oinki-gay-events
+DTSTAMP:20260817T100000Z
+DTSTART;TZID=Europe/Berlin:20260911T220000
+SUMMARY:🐻 BER · TESTOSTERONE – Official Folsom Party
+LOCATION:Berlin\, Deutschland
+DESCRIPTION:Leather / Fetish. Priorität 5/5. Official Folsom party\; strict dresscode. Quelle: https://folsomeurope.info/ticket-shop/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260911-31-beardance-folsom-berlin@oinki-gay-events
+DTSTAMP:20260817T100000Z
+DTSTART;TZID=Europe/Berlin:20260911T220000
+SUMMARY:🐻 BER · BearDance Folsom Berlin
+LOCATION:Berlin\, Deutschland
+DESCRIPTION:Bear / Clubbing. Priorität 4/5. Official Folsom party at SO36. Quelle: https://folsomeurope.info/ticket-shop/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260912-32-pig-official-folsom-main-p@oinki-gay-events
+DTSTAMP:20260817T100000Z
+DTSTART;TZID=Europe/Berlin:20260912T230000
+SUMMARY:🐻 BER · PiG – Official Folsom Main Party
+LOCATION:Berlin\, Deutschland
+DESCRIPTION:Fetish / Sex-positive. Priorität 5/5. Official Folsom main party. Quelle: https://folsomeurope.info/ticket-shop/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260912-33-animalz-official-folsom-pa@oinki-gay-events
+DTSTAMP:20260817T100000Z
+DTSTART;TZID=Europe/Berlin:20260912T220000
+SUMMARY:🐻 BER · ANIMALZ – Official Folsom Party
+LOCATION:Berlin\, Deutschland
+DESCRIPTION:Fetish / Clubbing. Priorität 5/5. Official Folsom party. Quelle: https://folsomeurope.info/ticket-shop/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260912-34-bi-plus-consexual-official@oinki-gay-events
+DTSTAMP:20260817T100000Z
+DTSTART;TZID=Europe/Berlin:20260912T210000
+SUMMARY:🐻 BER · BI-PLUS CONSEXUAL – Official Folsom Party
+LOCATION:Berlin\, Deutschland
+DESCRIPTION:Sex-positive / Fetish. Priorität 4/5. Official Folsom party. Quelle: https://folsomeurope.info/ticket-shop/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260820-35-xlsior-mykonos@oinki-gay-events
+DTSTAMP:20260817T100000Z
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260826
+SUMMARY:🇪🇺 EU · XLSIOR Mykonos
+LOCATION:Mykonos\, Griechenland
+DESCRIPTION:Gay Circuit Festival. Priorität 4/5. Flagship gay circuit festival. Quelle: https://xlsiorfestival.com/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260925-36-la-d-mence-candy-boy@oinki-gay-events
+DTSTAMP:20260817T100000Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:🇪🇺 EU · La Démence – Candy Boy
+LOCATION:Brüssel\, Belgien
+DESCRIPTION:Gay Circuit. Priorität 4/5. La Démence regular edition. Quelle: https://www.lademence.com/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261010-37-funhouse-15th-year-celebra@oinki-gay-events
+DTSTAMP:20260817T100000Z
+DTSTART;TZID=Europe/Berlin:20261010T220000
+DTEND;TZID=Europe/Berlin:20261011T060000
+SUMMARY:🇪🇺 EU · FunHouse – 15th Year Celebration
+LOCATION:Amsterdam\, Niederlande
+DESCRIPTION:Gay Circuit. Priorität 5/5. WestWeelde / WesterUnie. Quelle: https://www.clubrapido.com/events-tickets/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261030-38-la-d-mence-37th-anniversar@oinki-gay-events
+DTSTAMP:20260817T100000Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:🇪🇺 EU · La Démence 37th Anniversary – Opening
+LOCATION:Brüssel\, Belgien
+DESCRIPTION:Gay Circuit Weekend. Priorität 5/5. Anniversary opening party. Quelle: https://www.lademence.com/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261031-39-la-d-mence-37th-anniversar@oinki-gay-events
+DTSTAMP:20260817T100000Z
+DTSTART;TZID=Europe/Berlin:20261031T210000
+DTEND;TZID=Europe/Berlin:20261101T090000
+SUMMARY:🇪🇺 EU · La Démence 37th Anniversary – Main Party
+LOCATION:Brüssel\, Belgien
+DESCRIPTION:Mega Gay Circuit. Priorität 5/5. Main Party at ING Arena. Quelle: https://www.lademence.com/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261101-40-la-d-mence-37th-anniversar@oinki-gay-events
+DTSTAMP:20260817T100000Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:🇪🇺 EU · La Démence 37th Anniversary – Closing
+LOCATION:Brüssel\, Belgien
+DESCRIPTION:Gay Circuit Weekend. Priorität 5/5. Anniversary closing party. Quelle: https://www.lademence.com/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261102-41-winter-pride-maspalomas@oinki-gay-events
+DTSTAMP:20260817T100000Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261109
+SUMMARY:🇪🇺 EU · Winter Pride Maspalomas
+LOCATION:Maspalomas\, Gran Canaria\, Spanien
+DESCRIPTION:Pride + Circuit / Pool. Priorität 5/5. Winter Pride 2026. Quelle: https://www.winterpride.com/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261219-42-funhouse-xmas-edition@oinki-gay-events
+DTSTAMP:20260817T100000Z
+DTSTART;TZID=Europe/Berlin:20261219T220000
+DTEND;TZID=Europe/Berlin:20261220T070000
+SUMMARY:🇪🇺 EU · FunHouse – XMas Edition
+LOCATION:Amsterdam\, Niederlande
+DESCRIPTION:Gay Circuit. Priorität 4/5. WestWeelde. Quelle: https://www.clubrapido.com/events-tickets/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260927-43-folsom-street-fair@oinki-gay-events
+DTSTAMP:20260817T100000Z
+DTSTART;TZID=Europe/Berlin:20260927T110000
+DTEND;TZID=Europe/Berlin:20260927T180000
+SUMMARY:🌍 WORLD · Folsom Street Fair
+LOCATION:San Francisco\, USA
+DESCRIPTION:Leather / Kink / Sex-positive. Priorität 5/5. Globales Leather/Kink-Schwergewicht. Quelle: https://www.folsomstreet.org/folsom-street-fair
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20270216-44-darklands-festival@oinki-gay-events
 DTSTAMP:20260817T100000Z
 DTSTART;VALUE=DATE:20270216
 DTEND;VALUE=DATE:20270223
 SUMMARY:🇪🇺 EU · Darklands Festival
-LOCATION:Antwerpen, Belgien
+LOCATION:Antwerpen\, Belgien
+DESCRIPTION:Fetish / Leather / Sex-positive. Priorität 5/5. The Ember Dunes. Quelle: https://darklands.be/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20270306-45-sydney-gay-lesbian-mardi-g@oinki-gay-events
+DTSTAMP:20260817T100000Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:🌍 WORLD · Sydney Gay & Lesbian Mardi Gras Parade
+LOCATION:Sydney\, Australien
+DESCRIPTION:Global Pride / Parade. Priorität 5/5. Internationales Pride-Schwergewicht. Quelle: https://australianpridenetwork.com.au/lgbtiq-festivals/new-south-wales/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20270424-46-funhouse-xl-kings-queens-e@oinki-gay-events
+DTSTAMP:20260817T100000Z
+DTSTART;TZID=Europe/Berlin:20270424T220000
+DTEND;TZID=Europe/Berlin:20270425T070000
+SUMMARY:🇪🇺 EU · FunHouse XL – Kings & Queens Edition
+LOCATION:Amsterdam\, Niederlande
+DESCRIPTION:Gay Circuit. Priorität 5/5. WestWeelde. Quelle: https://www.clubrapido.com/events-tickets/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20270425-47-rapido-king-edition@oinki-gay-events
+DTSTAMP:20260817T100000Z
+DTSTART;TZID=Europe/Berlin:20270425T150000
+DTEND;TZID=Europe/Berlin:20270426T020000
+SUMMARY:🇪🇺 EU · Rapido – King Edition
+LOCATION:Amsterdam\, Niederlande
+DESCRIPTION:Gay Circuit. Priorität 5/5. Paradiso. Quelle: https://www.clubrapido.com/events-tickets/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20270609-48-sitges-pride@oinki-gay-events
+DTSTAMP:20260817T100000Z
+DTSTART;VALUE=DATE:20270609
+DTEND;VALUE=DATE:20270614
+SUMMARY:🇪🇺 EU · Sitges Pride
+LOCATION:Sitges\, Spanien
+DESCRIPTION:Pride + Beach + Parties. Priorität 4/5. Pride by the Sea. Quelle: https://sitgespride.com/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20270618-49-europride-torino@oinki-gay-events
+DTSTAMP:20260817T100000Z
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270627
+SUMMARY:🇪🇺 EU · EuroPride Torino
+LOCATION:Turin\, Italien
+DESCRIPTION:EuroPride. Priorität 5/5. EuroPride 2027. Quelle: https://www.europride2027.eu/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20270807-50-funhouse-xl-pride-edition@oinki-gay-events
+DTSTAMP:20260817T100000Z
+DTSTART;TZID=Europe/Berlin:20270807T220000
+DTEND;TZID=Europe/Berlin:20270808T070000
+SUMMARY:🇪🇺 EU · FunHouse XL – Pride Edition
+LOCATION:Amsterdam\, Niederlande
+DESCRIPTION:Gay Circuit / Pride. Priorität 5/5. WestWeelde. Quelle: https://www.clubrapido.com/events-tickets/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20270808-51-rapido-pride-edition@oinki-gay-events
+DTSTAMP:20260817T100000Z
+DTSTART;TZID=Europe/Berlin:20270808T150000
+DTEND;TZID=Europe/Berlin:20270809T020000
+SUMMARY:🇪🇺 EU · Rapido – Pride Edition
+LOCATION:Amsterdam\, Niederlande
+DESCRIPTION:Gay Circuit / Pride. Priorität 5/5. Paradiso. Quelle: https://www.clubrapido.com/events-tickets/
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
