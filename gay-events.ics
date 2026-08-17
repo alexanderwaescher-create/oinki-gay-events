@@ -1,17 +1,42 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Oinki//Gay Events Test//DE
+PRODID:-//Oinki//Gay Events Live//DE
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Oinki Gay Events Test
+X-WR-CALNAME:Oinki Gay Events
+X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
-UID:oinki-nas-test-20260817@oinki-events
-DTSTAMP:20260817T090000Z
-DTSTART;VALUE=DATE:20260818
-DTEND;VALUE=DATE:20260819
-SUMMARY:🏠 MUC · Oinki Gay Events – NAS-Test
-LOCATION:München
-DESCRIPTION:Testtermin für den öffentlichen Oinki Gay Events Kalender. Wenn dieser Termin nach dem Kalenderabo sichtbar ist, funktioniert die ICS-Auslieferung.
+UID:20260821-underground-sports@oinki-gay-events
+DTSTAMP:20260817T100000Z
+DTSTART;TZID=Europe/Berlin:20260821T210000
+SUMMARY:🏠 MUC · Sports, Rubber, Neoprene & PVC @ UnderGround
+LOCATION:München, Deutschland
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260822-underground-pets@oinki-gay-events
+DTSTAMP:20260817T100000Z
+DTSTART;TZID=Europe/Berlin:20260822T210000
+SUMMARY:🏠 MUC · Pets, Handler & Trainer @ UnderGround
+LOCATION:München, Deutschland
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260910-folsom-europe@oinki-gay-events
+DTSTAMP:20260817T100000Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260914
+SUMMARY:🐻 BER · Folsom Europe 2026
+LOCATION:Berlin, Deutschland
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20270216-darklands@oinki-gay-events
+DTSTAMP:20260817T100000Z
+DTSTART;VALUE=DATE:20270216
+DTEND;VALUE=DATE:20270223
+SUMMARY:🇪🇺 EU · Darklands Festival
+LOCATION:Antwerpen, Belgien
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
