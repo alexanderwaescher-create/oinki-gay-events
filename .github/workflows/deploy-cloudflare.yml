@@ -6,6 +6,8 @@ on:
       - main
     paths:
       - 'gay-events.ics'
+      - 'gay-cruises.inc'
+      - '.github/workflows/deploy-cloudflare.yml'
   workflow_dispatch:
 
 jobs:
@@ -15,10 +17,13 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Prepare Pages directory
+      - name: Prepare combined Pages calendar
         run: |
           mkdir -p dist
-          cp gay-events.ics dist/gay-events.ics
+          awk '!/^END:VCALENDAR\r?$/' gay-events.ics > dist/gay-events.ics
+          cat gay-cruises.inc >> dist/gay-events.ics
+          printf 'END:VCALENDAR\r\n' >> dist/gay-events.ics
+          echo "Published VEVENT count: $(grep -c '^BEGIN:VEVENT' dist/gay-events.ics)"
 
       - name: Deploy to Cloudflare Pages
         uses: cloudflare/wrangler-action@v3
