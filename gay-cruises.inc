@@ -39,6 +39,16 @@ DESCRIPTION:Gay/LGBTQ+ Cruise. Veranstalter: Atlantis Events. Bestätigter Termi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:cruise-20270706-atlantis-copenhagen-stockholm@oinki-gay-events
+DTSTAMP:20260824T071000Z
+DTSTART;VALUE=DATE:20270706
+DTEND;VALUE=DATE:20270716
+SUMMARY:🚢 CRUISE · Atlantis Events – Copenhagen to Stockholm Cruise 2027
+LOCATION:Oceania Marina
+DESCRIPTION:Gay/LGBTQ+ Cruise. Veranstalter: Atlantis Events. Bestätigter Termin laut offizieller Anbieterquelle. Quelle: https://atlantisevents.com/vacation/copenhagen-to-stockholm-cruise/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:cruise-20261228-5-vacaya@oinki-gay-events
 DTSTAMP:20260817T131900Z
 DTSTART;VALUE=DATE:20261228
