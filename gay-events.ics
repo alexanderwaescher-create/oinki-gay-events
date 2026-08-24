@@ -35,12 +35,31 @@ DESCRIPTION:Community / Fetish Social. Priorität 4/5. Anmeldung erforderlich\; 
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:20260825-mlc-biergarteln-augustiner@oinki-gay-events
+DTSTAMP:20260824T071000Z
+DTSTART;TZID=Europe/Berlin:20260825T180000
+SUMMARY:🏠 MUC · MLC Biergarteln @ Augustiner-Keller
+LOCATION:Augustiner-Keller\, Arnulfstr. 52\, München\, Deutschland
+DESCRIPTION:Gay community social. MLC und Freunde im Biergarten; bei zweifelhaftem Wetter Veranstalterkanäle prüfen. Quelle: https://www.mlc-munich.de/web/veranstaltungen/liste/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:20260828-4-bondage-sm-spank-undergrou@oinki-gay-events
 DTSTAMP:20260817T100000Z
 DTSTART;TZID=Europe/Berlin:20260828T210000
 SUMMARY:🏠 MUC · Bondage\, SM & Spank @ UnderGround
 LOCATION:München\, Deutschland
 DESCRIPTION:Fetish / BDSM. Priorität 5/5. MLC UnderGround. Quelle: https://www.mlc-munich.de/web/veranstaltungsort/underground/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260829-abdl-underground@oinki-gay-events
+DTSTAMP:20260824T071000Z
+DTSTART;TZID=Europe/Berlin:20260829T200000
+DTEND;TZID=Europe/Berlin:20260830T000000
+SUMMARY:🏠 MUC · AB / DL @ UnderGround
+LOCATION:UnderGround\, Machtlfinger Straße 29\, München\, Deutschland
+DESCRIPTION:ABDL / Fetish. Keine Abendkasse laut Veranstalter. Quelle: https://www.mlc-munich.de/web/venue/underground/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -109,6 +128,15 @@ DESCRIPTION:Gay social / Oktoberfest. Priorität 5/5. Erster Wiesn-Sonntag. Quel
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:20260921-roslmontag-braeurosl@oinki-gay-events
+DTSTAMP:20260824T071000Z
+DTSTART;TZID=Europe/Berlin:20260921T150000
+SUMMARY:🏠 MUC · RoslMontag @ Bräurosl
+LOCATION:Bräurosl\, Oktoberfest\, München\, Deutschland
+DESCRIPTION:Queer / LGBTQ+ Wiesn-Treff. Inoffizieller kostenloser Community-Treff am Montag nach Gay Sunday; keine Reservierung. Quelle: https://www.oktoberfest.de/informationen/service-fuer-besucher/lgbtiq-auf-der-wiesn-tipps-und-events-fuer-die-queere-community
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:20260925-12-mixed-fetish-underground@oinki-gay-events
 DTSTAMP:20260817T100000Z
 DTSTART;TZID=Europe/Berlin:20260925T210000
@@ -124,6 +152,15 @@ DTSTART;TZID=Europe/Berlin:20260926T210000
 SUMMARY:🏠 MUC · Leder & Tracht @ UnderGround
 LOCATION:München\, Deutschland
 DESCRIPTION:Leather / Fetish. Priorität 5/5. MLC UnderGround. Quelle: https://www.mlc-munich.de/web/veranstaltungsort/underground/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260927-proudwiesn-armbrustschuetzenzelt@oinki-gay-events
+DTSTAMP:20260824T071000Z
+DTSTART;TZID=Europe/Berlin:20260927T164500
+SUMMARY:🏠 MUC · ProudWiesn @ Armbrustschützenzelt
+LOCATION:Armbrustschützenzelt\, Oktoberfest\, München\, Deutschland
+DESCRIPTION:LGBTQ+ community event auf der Wiesn. Quelle: https://www.oktoberfest.de/informationen/service-fuer-besucher/lgbtiq-auf-der-wiesn-tipps-und-events-fuer-die-queere-community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
