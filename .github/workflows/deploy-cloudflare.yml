@@ -6,6 +6,7 @@ on:
       - main
     paths:
       - 'gay-events.ics'
+      - 'gay-additions.inc'
       - 'gay-cruises.inc'
       - '.github/workflows/deploy-cloudflare.yml'
   workflow_dispatch:
@@ -21,6 +22,7 @@ jobs:
         run: |
           mkdir -p dist
           awk '!/^END:VCALENDAR\r?$/' gay-events.ics > dist/gay-events.ics
+          cat gay-additions.inc >> dist/gay-events.ics
           cat gay-cruises.inc >> dist/gay-events.ics
           printf 'END:VCALENDAR\r\n' >> dist/gay-events.ics
           echo "Published VEVENT count: $(grep -c '^BEGIN:VEVENT' dist/gay-events.ics)"
