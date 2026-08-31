@@ -36,12 +36,12 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:20260825-mlc-biergarteln-augustiner@oinki-gay-events
-DTSTAMP:20260824T071000Z
+DTSTAMP:20260831T071100Z
 DTSTART;TZID=Europe/Berlin:20260825T180000
-SUMMARY:🏠 MUC · MLC Biergarteln @ Augustiner-Keller
+SUMMARY:🏠 MUC · ABGESAGT · MLC Biergarteln @ Augustiner-Keller
 LOCATION:Augustiner-Keller\, Arnulfstr. 52\, München\, Deutschland
-DESCRIPTION:Gay community social. MLC und Freunde im Biergarten; bei zweifelhaftem Wetter Veranstalterkanäle prüfen. Quelle: https://www.mlc-munich.de/web/veranstaltungen/liste/
-STATUS:CONFIRMED
+DESCRIPTION:Vom Veranstalter abgesagt. Quelle: https://www.mlc-munich.de/web/veranstaltungen/
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:20260828-4-bondage-sm-spank-undergrou@oinki-gay-events
@@ -63,6 +63,15 @@ DESCRIPTION:ABDL / Fetish. Keine Abendkasse laut Veranstalter. Quelle: https://w
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:20260903-mlc-clubabend-edelheiss@oinki-gay-events
+DTSTAMP:20260831T071100Z
+DTSTART;TZID=Europe/Berlin:20260903T200000
+SUMMARY:🏠 MUC · MLC Clubabend @ Edelheiss
+LOCATION:Edelheiss\, Pestalozzistr. 6\, München\, Deutschland
+DESCRIPTION:MLC-Mitglieder und Freunde treffen sich in der Szene-Kneipe; Gäste willkommen. Quelle: https://www.mlc-munich.de/web/veranstaltungen/liste/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:20260904-5-leather-night-underground@oinki-gay-events
 DTSTAMP:20260817T100000Z
 DTSTART;TZID=Europe/Berlin:20260904T210000
@@ -78,6 +87,15 @@ DTSTART;TZID=Europe/Berlin:20260905T210000
 SUMMARY:🏠 MUC · Fetish Schlager Party @ UnderGround
 LOCATION:München\, Deutschland
 DESCRIPTION:Fetish / Party. Priorität 4/5. MLC Special Event. Quelle: https://www.mlc-munich.de/web/veranstaltungsort/underground/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260910-isarbiker-stammtisch-zunfthaus@oinki-gay-events
+DTSTAMP:20260831T071100Z
+DTSTART;TZID=Europe/Berlin:20260910T200000
+SUMMARY:🏠 MUC · IsarBiker Stammtisch @ Zunfthaus
+LOCATION:Zunfthaus\, Thalkirchner Str. 76\, München\, Deutschland
+DESCRIPTION:Treffen der schwulen Motorradfahrer München zum Austausch über Touren und gemeinsame Ausfahrten. Quelle: https://www.mlc-munich.de/web/veranstaltungen/liste/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
