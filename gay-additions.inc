@@ -354,9 +354,9 @@ BEGIN:VEVENT
 UID:20261002-sub-fetischtheke@oinki-gay-events
 DTSTAMP:20260824T112500Z
 DTSTART;TZID=Europe/Berlin:20261002T190000
-SUMMARY:🏠 MUC · Fetischtheke @ Sub
+SUMMARY:🍸 MUC · Sub-Theke · Fetischtheke
 LOCATION:Sub\, Müllerstraße 14\, München\, Deutschland
-DESCRIPTION:Ausgewählter Sub-Thekenabend. Termin aus aktuellem Sub-Veranstaltungskalender; Uhrzeit bei Aktualisierung erneut prüfen. Quelle: https://subonline.org/
+DESCRIPTION:Thekendienst im Sub. Quelle: https://subonline.org/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -374,8 +374,8 @@ UID:20261010-sub-tank-tops@oinki-gay-events
 DTSTAMP:20260824T112500Z
 DTSTART;TZID=Europe/Berlin:20261010T200000
 DTEND;TZID=Europe/Berlin:20261011T010000
-SUMMARY:🏠 MUC · Tank TOPS @ Sub
+SUMMARY:🍸 MUC · Sub-Theke · Tank TOPS
 LOCATION:Sub\, Müllerstraße 14\, München\, Deutschland
-DESCRIPTION:Ausgewählter Sub-Thekenabend. Quelle: https://subonline.org/
+DESCRIPTION:Thekendienst im Sub. Quelle: https://subonline.org/
 STATUS:CONFIRMED
 END:VEVENT
