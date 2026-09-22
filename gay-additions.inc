@@ -379,3 +379,93 @@ LOCATION:Sub\, Müllerstraße 14\, München\, Deutschland
 DESCRIPTION:Thekendienst im Sub. Quelle: https://subonline.org/
 STATUS:CONFIRMED
 END:VEVENT
+BEGIN:VEVENT
+UID:20261002-gc-fetish-meet-greet@oinki-gay-events
+DTSTAMP:20260922T081500Z
+DTSTART;TZID=Atlantic/Canary:20261002T213000
+DTEND;TZID=Atlantic/Canary:20261003T000000
+SUMMARY:🏝️ GC · Fetish Pride Meet N Greet
+LOCATION:WunderBar\, Yumbo Centre\, Playa del Inglés\, Gran Canaria
+DESCRIPTION:Maspalomas Fetish Pride 2026. Eintritt frei. Quelle: https://maspalomasfetishpride.com/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261003-gc-pornstar-pool@oinki-gay-events
+DTSTAMP:20260922T081500Z
+DTSTART;TZID=Atlantic/Canary:20261003T100000
+DTEND;TZID=Atlantic/Canary:20261003T180000
+SUMMARY:🏝️ GC · Porn Star Pool Party · Fetish Pride
+LOCATION:Basement Studios\, Playa del Inglés\, Gran Canaria
+DESCRIPTION:Maspalomas Fetish Pride 2026. Pool Party by Paul Stag. Eintritt laut Programm €15. Quelle: https://maspalomasfetishpride.com/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261003-gc-sportswear-party@oinki-gay-events
+DTSTAMP:20260922T081500Z
+DTSTART;TZID=Atlantic/Canary:20261003T230000
+DTEND;TZID=Atlantic/Canary:20261004T060000
+SUMMARY:🏝️ GC · Sportswear & Sneaker Party · Fetish Pride
+LOCATION:Club KiKi\, Yumbo Centre\, Playa del Inglés\, Gran Canaria
+DESCRIPTION:Maspalomas Fetish Pride 2026. Sportswear Party with Gear Zones. Quelle: https://maspalomasfetishpride.com/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261005-gc-sportswear-pool@oinki-gay-events
+DTSTAMP:20260922T081500Z
+DTSTART;TZID=Atlantic/Canary:20261005T120000
+DTEND;TZID=Atlantic/Canary:20261005T180000
+SUMMARY:🏝️ GC · Sportswear Pool Party · Fetish Pride
+LOCATION:Tropical La Zona\, Playa del Inglés\, Gran Canaria
+DESCRIPTION:Maspalomas Fetish Pride 2026. Online-Tickets verfügbar. Quelle: https://maspalomasfetishpride.com/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261007-gc-darklands-pool@oinki-gay-events
+DTSTAMP:20260922T081500Z
+DTSTART;TZID=Atlantic/Canary:20261007T110000
+DTEND;TZID=Atlantic/Canary:20261007T210000
+SUMMARY:🏝️ GC · Darklands Wet & Wild Pool Party
+LOCATION:AxelBeach Maspalomas\, Playa del Inglés\, Gran Canaria
+DESCRIPTION:Maspalomas Fetish Pride 2026. Darklands Wet and Wild Pool Party. Quelle: https://maspalomasfetishpride.com/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261010-gc-big-pool@oinki-gay-events
+DTSTAMP:20260922T081500Z
+DTSTART;TZID=Atlantic/Canary:20261010T120000
+DTEND;TZID=Atlantic/Canary:20261010T180000
+SUMMARY:🏝️ GC · The Big Pool Party · Fetish Pride
+LOCATION:Tropical La Zona\, Playa del Inglés\, Gran Canaria
+DESCRIPTION:Maspalomas Fetish Pride 2026. Eintritt laut Programm €20. Quelle: https://maspalomasfetishpride.com/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261010-gc-hardon@oinki-gay-events
+DTSTAMP:20260922T081500Z
+DTSTART;TZID=Atlantic/Canary:20261010T230000
+DTEND;TZID=Atlantic/Canary:20261011T060000
+SUMMARY:🏝️ GC · HardOn · Fetish Pride Edition
+LOCATION:Club KiKi\, Yumbo Centre\, Playa del Inglés\, Gran Canaria
+DESCRIPTION:Maspalomas Fetish Pride 2026. Eintritt laut Programm €15 online; Abendkasse verfügbar. Quelle: https://maspalomasfetishpride.com/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261011-gc-closing-pool@oinki-gay-events
+DTSTAMP:20260922T081500Z
+DTSTART;TZID=Atlantic/Canary:20261011T100000
+DTEND;TZID=Atlantic/Canary:20261011T180000
+SUMMARY:🏝️ GC · Fetish Pride Closing Pool Party
+LOCATION:Basement Studios\, Playa del Inglés\, Gran Canaria
+DESCRIPTION:Maspalomas Fetish Pride 2026. Closing Pool Party. Eintritt laut Programm €15. Quelle: https://maspalomasfetishpride.com/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261011-gc-dilf@oinki-gay-events
+DTSTAMP:20260922T081500Z
+DTSTART;TZID=Atlantic/Canary:20261011T230000
+DTEND;TZID=Atlantic/Canary:20261012T060000
+SUMMARY:🏝️ GC · DILF · Fetish Pride Edition
+LOCATION:Club KiKi\, Yumbo Centre\, Playa del Inglés\, Gran Canaria
+DESCRIPTION:Maspalomas Fetish Pride 2026 Closing Night. Eintritt laut Programm €15. Quelle: https://maspalomasfetishpride.com/
+STATUS:CONFIRMED
+END:VEVENT
