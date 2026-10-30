@@ -469,3 +469,129 @@ LOCATION:Club KiKi\, Yumbo Centre\, Playa del Inglés\, Gran Canaria
 DESCRIPTION:Maspalomas Fetish Pride 2026 Closing Night. Eintritt laut Programm €15. Quelle: https://maspalomasfetishpride.com/
 STATUS:CONFIRMED
 END:VEVENT
+BEGIN:VEVENT
+UID:20261101-underground-1@oinki-gay-events
+DTSTAMP:20261030T200000Z
+DTSTART;TZID=Europe/Berlin:20261101T150000
+SUMMARY:🏠 MUC · Münchner Stuten-Ficken @ UnderGround
+LOCATION:UnderGround\, Machtlfinger Straße 29\, München\, Deutschland
+DESCRIPTION:Stuten 15:00-15:30\, Hengste 16:00-17:00\; Partyende 22:00. Quelle: https://www.mlc-munich.de/web/venue/underground/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261106-underground-2@oinki-gay-events
+DTSTAMP:20261030T200000Z
+DTSTART;TZID=Europe/Berlin:20261106T210000
+SUMMARY:🏠 MUC · Sneakers\, Sports & Scally @ UnderGround
+LOCATION:UnderGround\, Machtlfinger Straße 29\, München\, Deutschland
+DESCRIPTION:Einlass 21:00-23:00. Quelle: https://www.mlc-munich.de/web/venue/underground/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261107-underground-3@oinki-gay-events
+DTSTAMP:20261030T200000Z
+DTSTART;TZID=Europe/Berlin:20261107T180000
+SUMMARY:🏠 MUC · Spank Workshop @ UnderGround
+LOCATION:UnderGround\, Machtlfinger Straße 29\, München\, Deutschland
+DESCRIPTION:Einlass 18:00-20:00\; keine Anmeldung erforderlich. Quelle: https://www.mlc-munich.de/web/venue/underground/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261107-underground-4@oinki-gay-events
+DTSTAMP:20261030T200000Z
+DTSTART;TZID=Europe/Berlin:20261107T210000
+SUMMARY:🏠 MUC · Spank @ UnderGround
+LOCATION:UnderGround\, Machtlfinger Straße 29\, München\, Deutschland
+DESCRIPTION:Einlass 21:00-23:00. Quelle: https://www.mlc-munich.de/web/venue/underground/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261108-underground-5@oinki-gay-events
+DTSTAMP:20261030T200000Z
+DTSTART;TZID=Europe/Berlin:20261108T150000
+SUMMARY:🏠 MUC · Naked Afternoon @ UnderGround
+LOCATION:UnderGround\, Machtlfinger Straße 29\, München\, Deutschland
+DESCRIPTION:Einlass 15:00-17:00\; Partyende 22:00. Quelle: https://www.mlc-munich.de/web/venue/underground/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261113-underground-6@oinki-gay-events
+DTSTAMP:20261030T200000Z
+DTSTART;TZID=Europe/Berlin:20261113T210000
+SUMMARY:🏠 MUC · Schnupperparty (ohne Dresscode) @ UnderGround
+LOCATION:UnderGround\, Machtlfinger Straße 29\, München\, Deutschland
+DESCRIPTION:Einlass 21:00-23:00\; kein Dresscode. Quelle: https://www.mlc-munich.de/web/venue/underground/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261114-underground-7@oinki-gay-events
+DTSTAMP:20261030T200000Z
+DTSTART;TZID=Europe/Berlin:20261114T210000
+SUMMARY:🏠 MUC · Full Rubber 100% @ UnderGround
+LOCATION:UnderGround\, Machtlfinger Straße 29\, München\, Deutschland
+DESCRIPTION:Einlass 21:00-23:00. Quelle: https://www.mlc-munich.de/web/venue/underground/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261115-underground-8@oinki-gay-events
+DTSTAMP:20261030T200000Z
+DTSTART;TZID=Europe/Berlin:20261115T150000
+SUMMARY:🏠 MUC · Naked & Underwear Afternoon @ UnderGround
+LOCATION:UnderGround\, Machtlfinger Straße 29\, München\, Deutschland
+DESCRIPTION:Einlass 15:00-17:00\; Partyende 22:00. Quelle: https://www.mlc-munich.de/web/venue/underground/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261120-underground-9@oinki-gay-events
+DTSTAMP:20261030T200000Z
+DTSTART;TZID=Europe/Berlin:20261120T210000
+SUMMARY:🏠 MUC · Work-\, Protectiongear & Bootslovers @ UnderGround
+LOCATION:UnderGround\, Machtlfinger Straße 29\, München\, Deutschland
+DESCRIPTION:Einlass 21:00-23:00. Quelle: https://www.mlc-munich.de/web/venue/underground/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261121-underground-10@oinki-gay-events
+DTSTAMP:20261030T200000Z
+DTSTART;TZID=Europe/Berlin:20261121T210000
+SUMMARY:🏠 MUC · Sneakers\, Sports & Scally – Scuffle Edition @ UnderGround
+LOCATION:UnderGround\, Machtlfinger Straße 29\, München\, Deutschland
+DESCRIPTION:Einlass 21:00-23:00. Quelle: https://www.mlc-munich.de/web/venue/underground/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261122-underground-11@oinki-gay-events
+DTSTAMP:20261030T200000Z
+DTSTART;TZID=Europe/Berlin:20261122T150000
+SUMMARY:🏠 MUC · Naked Afternoon @ UnderGround
+LOCATION:UnderGround\, Machtlfinger Straße 29\, München\, Deutschland
+DESCRIPTION:Einlass 15:00-17:00\; Partyende 22:00. Quelle: https://www.mlc-munich.de/web/venue/underground/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261127-underground-12@oinki-gay-events
+DTSTAMP:20261030T200000Z
+DTSTART;TZID=Europe/Berlin:20261127T210000
+SUMMARY:🏠 MUC · Sports\, Rubber\, Neoprene & PVC @ UnderGround
+LOCATION:UnderGround\, Machtlfinger Straße 29\, München\, Deutschland
+DESCRIPTION:Einlass 21:00-23:00. Quelle: https://www.mlc-munich.de/web/venue/underground/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261128-underground-13@oinki-gay-events
+DTSTAMP:20261030T200000Z
+DTSTART;TZID=Europe/Berlin:20261128T210000
+SUMMARY:🏠 MUC · Bears\, Otters & Friends @ UnderGround
+LOCATION:UnderGround\, Machtlfinger Straße 29\, München\, Deutschland
+DESCRIPTION:Einlass 21:00-23:00. Quelle: https://www.mlc-munich.de/web/venue/underground/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261129-underground-14@oinki-gay-events
+DTSTAMP:20261030T200000Z
+DTSTART;TZID=Europe/Berlin:20261129T150000
+SUMMARY:🏠 MUC · Naked & Underwear Afternoon @ UnderGround
+LOCATION:UnderGround\, Machtlfinger Straße 29\, München\, Deutschland
+DESCRIPTION:Einlass 15:00-17:00\; Partyende 22:00. Quelle: https://www.mlc-munich.de/web/venue/underground/
+STATUS:CONFIRMED
+END:VEVENT
